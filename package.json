@@ -1,6 +1,6 @@
 {
 	"name": "cloudstream",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Svelte component for Cloudflare Stream",
 	"repository": {
 		"type": "git",
