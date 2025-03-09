@@ -1,4 +1,4 @@
-# embedz
+# CloudStream
 
 [![NPM](https://img.shields.io/npm/v/cloudstream?color=red)](https://www.npmjs.com/package/cloudstream)
 [![MIT License](https://img.shields.io/github/license/GreenestGoat/cloudstream.svg?color=blue)](https://github.com/GreenestGoat/cloudstream/blob/next/LICENSE)
