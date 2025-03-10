@@ -45,6 +45,7 @@ yarn add cloudstream
 
 ```shell
 git clone https://github.com/GreenestGoat/cloudstream.git
+cd cloudstream
 npm install
 npm run dev -- --open
 ```
